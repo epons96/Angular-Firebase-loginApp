@@ -1,8 +1,18 @@
 # LoginApp
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.2, Sweetalert version 8.5.0 and Firebase
 
-Cascaron de un login que usaremos en la sección 10 de mi curso de Angular de cero a experto.
+## Development server
 
-https://www.udemy.com/angular-2-fernando-herrera/?couponCode=ANGULAR-10
+Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
+## Code scaffolding
 
-![](https://github.com/Klerith/angular-login-demoapp/blob/master/src/assets/images/demo.png?raw=true)
+Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+
+## Build
+
+Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+
+## Further help
+
+To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
